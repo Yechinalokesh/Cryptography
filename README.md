@@ -1,7 +1,5 @@
 # ✨ Understanding Cryptography: How Secrets Stay Safe in the Digital World ✨
 
----
-
 Welcome to my little corner of the web where we explore the fascinating world of **Cryptography**! 🔐
 
 Ever wondered how your messages, passwords, and private info stay safe when you’re chatting online or shopping?  
@@ -9,14 +7,14 @@ Well, cryptography is like the secret magic that keeps all that info locked tigh
 
 ---
 
-### What’s this repo about?
+## What’s this repo about?
 
 This project is a **fun, animated story** that explains the basics of cryptography like you’re watching a cool video — with characters, hackers, and secret codes!  
 It’s designed to make learning easy and fun, whether you’re a beginner or just curious about how digital secrets work.
 
 ---
 
-### Why is cryptography important?
+## Why is cryptography important?
 
 - It protects your privacy online  
 - It stops hackers from stealing info  
@@ -25,14 +23,14 @@ It’s designed to make learning easy and fun, whether you’re a beginner or ju
 
 ---
 
-### How to use this?
+## How to use this?
 
 Just click this link and watch the story unfold:  
 👉 [Watch the Cryptography Animation](https://yechinalokesh.github.io/Yechinalokesh-cryptography-case-study/)
 
 ---
 
-### Fun animated intro in pure markdown 🎉 (view on GitHub for the effect):
+## Fun animated intro in pure markdown 🎉 (view on GitHub for the effect):
 
 ```diff
 - 🔒 Secrets stay safe because...
