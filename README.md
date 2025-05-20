@@ -29,13 +29,4 @@ Just click this link and watch the story unfold:
 👉 [Watch the Cryptography Animation](https://yechinalokesh.github.io/Yechinalokesh-cryptography-case-study/)
 
 ---
-
-## Fun animated intro in pure markdown 🎉 (view on GitHub for the effect):
-
-```diff
-- 🔒 Secrets stay safe because...
-+ 🚀 Cryptography is AWESOME!
-- 👩‍💻 Alice sends a message...
-+ 🕵️‍♂️ But watch out! There's a hacker!
-- 🔑 Keys are shared...
-+ 🎉 And messages get decrypted safely!
+_Made with ❤️ by a student who believes that even the hardest tech becomes fun when you tell it like a story._ 🎬🧠
