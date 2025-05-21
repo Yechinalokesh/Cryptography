@@ -1,4 +1,4 @@
-# ✨ Cryptography Explained: Keeping Digital Secrets Safe ✨
+# ✨ Cryptography Explained: Keeping Digital Secrets Safe..
 
 > 🎬 **See Crypto in Action (Animated Comic!)**
 > 👉 [**Watch the Story**](https://yechinalokesh.github.io/Yechinalokesh-cryptography-case-study/)
